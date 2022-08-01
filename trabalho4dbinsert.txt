@@ -1,0 +1,7 @@
+/*INSERT INTO CATEGORIA (descricao) VALUES ('Eletrodomesticos'); 
+INSERT INTO CATEGORIA (descricao) VALUES ('Informatica');
+INSERT INTO CATEGORIA (descricao) VALUES ('Eletroportateis');
+INSERT INTO CATEGORIA (descricao) VALUES ('Smartphones');
+
+INSERT INTO ADMINISTRADOR (login,senha ) VALUES ('admin','1234');
+*/

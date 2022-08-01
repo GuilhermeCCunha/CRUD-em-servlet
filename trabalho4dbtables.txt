@@ -1,0 +1,48 @@
+/*CREATE TABLE CATEGORIA (
+    id INT not null primary key
+        GENERATED ALWAYS AS IDENTITY
+       (START WITH 1, INCREMENT BY 1), 
+    descricao varchar(20));
+
+CREATE TABLE PRODUTO (
+    id INT not null primary key
+        GENERATED ALWAYS AS IDENTITY
+       (START WITH 1, INCREMENT BY 1),
+idcategoria int,
+    nome varchar(20),
+   descricao varchar(20),
+valor float); 
+CREATE TABLE CLIENTES (
+    id INT not null primary key
+        GENERATED ALWAYS AS IDENTITY
+       (START WITH 1, INCREMENT BY 1),
+nome varchar(20),
+endereco varchar(25),
+bairro varchar(20),
+cidade varchar(20),
+cep varchar(18),
+estado varchar(20),
+referencia varchar(20),
+cpf varchar(18),
+identidade varchar(18),
+telfixo varchar(18),
+celular varchar(18),
+numcartao varchar(18),
+bandcartao varchar(18)); 
+  
+
+CREATE TABLE COMPRAS (
+    id INT not null primary key
+        GENERATED ALWAYS AS IDENTITY
+       (START WITH 1, INCREMENT BY 1), 
+    idcliente int,
+idproduto int); 
+
+CREATE TABLE ADMINISTRADOR (
+    id INT not null primary key
+        GENERATED ALWAYS AS IDENTITY
+       (START WITH 1, INCREMENT BY 1), 
+    login varchar(20),
+senha varchar(20)
+);
+*/

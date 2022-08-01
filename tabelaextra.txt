@@ -1,0 +1,6 @@
+CREATE TABLE PRODUTONOCARRINHO 
+    (id INT not null primary key,
+idcategoria int,
+    nome varchar(20),
+   descricao varchar(20),
+valor float); 
