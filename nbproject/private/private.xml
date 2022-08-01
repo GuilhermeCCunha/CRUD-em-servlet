@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/src/java/br/DAO/Conexao.java</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/web/Form_Categoria_Visualizar.jsp</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/web/Smartphones.jsp</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/web/index.jsp</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/web/Eletroportateis.jsp</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/src/java/br/controle/ListaProduto.java</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/web/ListaAdministradorView.jsp</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/src/java/br/controle/ExcluirCarrinho.java</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/web/Form_Categoria.jsp</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/web/ListaClientesView.jsp</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/src/java/br/controle/IncluirCAT.java</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/src/java/br/controle/IncluirPROD.java</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/web/Form_Produto_Excluir.jsp</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/src/java/br/controle/Pesqprod.java</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/web/ListaComprasView.jsp</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/src/java/br/controle/LoginSessao.java</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/src/java/br/controle/IncluirADM.java</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/src/java/br/DAO/ComprarPROD.java</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/web/Resposta.jsp</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/web/Carrinho.jsp</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/web/Eletrodomesticos.jsp</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/web/ListaProdutoView.jsp</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/web/Form_Produto_Carrinho.jsp</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/src/java/br/controle/ListaCarrinho.java</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/src/java/br/controle/EditarPROD.java</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/src/java/br/controle/ListaClientes.java</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/web/Form_Produto_Editar.jsp</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/web/Form_Carrinho_Excluir.jsp</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/web/LoginADM.jsp</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/src/java/br/controle/ExcluirCAT.java</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/src/java/br/controle/ListaEledo.java</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/src/java/br/controle/ListaInfo.java</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/web/Informatica.jsp</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/src/java/br/controle/VisualizarPROD.java</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/web/Form_Produto.jsp</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/src/java/br/DAO/Administrador_DAO.java</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/src/java/br/controle/IncluirCarrinho.java</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/src/java/br/controle/VisualizarADM.java</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/src/java/br/controle/ExcluirPROD.java</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/src/java/br/controle/IncluirCLNT.java</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/web/Form_Categoria_Editar.jsp</file>
+            <file>file:/C:/Users/guilh/Desktop/trabalho4teste/trababalho4teste/src/java/br/DAO/Produto_DAO.java</file>
+        </group>
+    </open-files>
+</project-private>
